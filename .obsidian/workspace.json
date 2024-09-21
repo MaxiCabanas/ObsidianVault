@@ -4,9 +4,9 @@
     "type": "split",
     "children": [
       {
-        "id": "557fbe6ed1615a2d",
+        "id": "19fcfdd313acf8ee",
         "type": "tabs",
-        "dimension": 74.60510328068044,
+        "dimension": 72.60024301336574,
         "children": [
           {
             "id": "cec1e8e56d8914fe",
@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Home.md",
+                "file": "ProjectSettings.md",
                 "mode": "source",
                 "source": false
               }
@@ -23,21 +23,52 @@
         ]
       },
       {
-        "id": "11c0f309a0a65714",
-        "type": "tabs",
-        "dimension": 25.394896719319565,
+        "id": "30c99523d2c6676d",
+        "type": "split",
+        "dimension": 27.399756986634266,
         "children": [
           {
-            "id": "510e87d69a5e2400",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "graph",
-              "state": {},
-              "pinned": true
-            }
+            "id": "11c0f309a0a65714",
+            "type": "tabs",
+            "dimension": 48.55769230769231,
+            "children": [
+              {
+                "id": "510e87d69a5e2400",
+                "type": "leaf",
+                "pinned": true,
+                "state": {
+                  "type": "graph",
+                  "state": {},
+                  "pinned": true
+                }
+              }
+            ],
+            "stacked": true
+          },
+          {
+            "id": "1bfc696e43949829",
+            "type": "tabs",
+            "dimension": 51.442307692307686,
+            "children": [
+              {
+                "id": "5b401d33fc6b98e6",
+                "type": "leaf",
+                "pinned": true,
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "README.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "pinned": true
+                }
+              }
+            ],
+            "stacked": true
           }
-        ]
+        ],
+        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
@@ -103,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Home.md",
+                "file": "ProjectSettings.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Home.md",
+                "file": "ProjectSettings.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Home.md"
+                "file": "ProjectSettings.md"
               }
             }
           },
@@ -160,7 +191,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 376.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -176,17 +207,19 @@
   },
   "active": "cec1e8e56d8914fe",
   "lastOpenFiles": [
+    "README.md",
+    "ProjectSettings.md",
+    "ConsoleOutput.md",
+    "Home.md",
+    "Link to Assets in UE.md",
+    "2024-09-21.md",
     "Custom Setting Pages.md",
     "Delegates.md",
     "Editor Notification.md",
     "Content Browser API.md",
-    "ConsoleOutput.md",
     "EOS Setup.md",
-    "Home.md",
     "Perforce.md",
     "Editor Customization/Extending UE5 Editor.md",
-    "ProjectSettings.md",
-    "Link to Assets in UE.md",
     "CVar.md",
     "Editor Customization/Pasted image 20240914173049.png",
     "Editor Customization/Pasted image 20240914173419.png",
