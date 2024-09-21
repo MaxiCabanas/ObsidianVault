@@ -1,0 +1,194 @@
+{
+  "main": {
+    "id": "957198ac2bf54679",
+    "type": "split",
+    "children": [
+      {
+        "id": "4098fa453cc6f84c",
+        "type": "tabs",
+        "dimension": 70.71688942891859,
+        "children": [
+          {
+            "id": "3474479218ad58fb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Custom Setting Pages.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "557fbe6ed1615a2d",
+        "type": "tabs",
+        "dimension": 29.283110571081412,
+        "children": [
+          {
+            "id": "510e87d69a5e2400",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "graph",
+              "state": {},
+              "pinned": true
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ab4048883d6c2c40",
+    "type": "split",
+    "children": [
+      {
+        "id": "6cc98c2d2af39cbe",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3e339672ddb81679",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "6ec442ee02d40870",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "edbcf3d6fa918787",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 229.5
+  },
+  "right": {
+    "id": "ec14bb73dfdf6bdc",
+    "type": "split",
+    "children": [
+      {
+        "id": "982d040f201163ed",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e47f074e20dbee42",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Custom Setting Pages.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "63b67256d90ea005",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Custom Setting Pages.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "3188dac3297591f7",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "88760d7f611f935d",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Custom Setting Pages.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "homepage:Open homepage": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "3474479218ad58fb",
+  "lastOpenFiles": [
+    "Delegates.md",
+    "Editor Notification.md",
+    "Content Browser API.md",
+    "Custom Setting Pages.md",
+    "ConsoleOutput.md",
+    "EOS Setup.md",
+    "Home.md",
+    "Perforce.md",
+    "Editor Customization/Extending UE5 Editor.md",
+    "ProjectSettings.md",
+    "Link to Assets in UE.md",
+    "CVar.md",
+    "Editor Customization/Pasted image 20240914173049.png",
+    "Editor Customization/Pasted image 20240914173419.png",
+    "Editor Customization",
+    "Editor Customization/Pasted image 20240914173229.png",
+    "Editor Customization/Pasted image 20240914173223.png",
+    "Editor Customization/Pasted image 20240914173144.png",
+    "Custom Editor Settings.md",
+    "toc.md",
+    "Select.md",
+    "create a link.md"
+  ]
+}
