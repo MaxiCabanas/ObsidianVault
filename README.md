@@ -1,6 +1,6 @@
 # Welcome to my Unreal Engine 5 Notes
 
-[Extending UE5 Editor](<Extending UE5 Editor>)
+<a href="Extending UE5 Editor" class="internal-link">Extending UE5 Editor</a>
 [[ProjectSettings]]
 [[EOS Setup]]
 [[ConsoleOutput]]

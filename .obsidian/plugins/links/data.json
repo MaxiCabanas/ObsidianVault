@@ -28,7 +28,7 @@
     "convertToWikilink": true,
     "convertToAutolink": true,
     "convertToMakrdownLink": true,
-    "convertToHtmlLink": false,
+    "convertToHtmlLink": true,
     "replaceLink": true,
     "embedUnembedLink": true,
     "deleteLink": true,

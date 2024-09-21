@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Editor Customization/Extending UE5 Editor.md",
+                "file": "Home.md",
                 "mode": "source",
                 "source": false
               }
@@ -207,11 +207,11 @@
   },
   "active": "5b401d33fc6b98e6",
   "lastOpenFiles": [
-    "Editor Customization/Extending UE5 Editor.md",
-    "README.md",
-    "ProjectSettings.md",
-    "ConsoleOutput.md",
     "Home.md",
+    "README.md",
+    "ConsoleOutput.md",
+    "ProjectSettings.md",
+    "Editor Customization/Extending UE5 Editor.md",
     "Link to Assets in UE.md",
     "2024-09-21.md",
     "Custom Setting Pages.md",
