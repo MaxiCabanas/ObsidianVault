@@ -5,7 +5,7 @@
   "removeLinksFromHeadingsInternalWikilinkWithoutTextReplacement": "Destination",
   "deleteUnreferencedLinkTarget": true,
   "removeLinksFromHeadingsInternalWikilinkWithoutTextAction": "ReplaceWithDestination",
-  "onConvertToMdlinkAppendMdExtension": false,
+  "onConvertToMdlinkAppendMdExtension": true,
   "autoselectWordOnCreateLink": true,
   "skipFrontmatterInNoteWideCommands": true,
   "ffReplaceLink": false,
