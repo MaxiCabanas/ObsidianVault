@@ -25,7 +25,11 @@
   "recentFilesStore": [
     {
       "filepath": "README.md",
-      "timestamp": 1726900717022
+      "timestamp": 1726900908352
+    },
+    {
+      "filepath": "Editor Customization/Extending UE5 Editor.md",
+      "timestamp": 1726900907122
     },
     {
       "filepath": "Home.md",
@@ -38,10 +42,6 @@
     {
       "filepath": "ProjectSettings.md",
       "timestamp": 1726900663194
-    },
-    {
-      "filepath": "Editor Customization/Extending UE5 Editor.md",
-      "timestamp": 1726900659450
     }
   ],
   "bookmarkedFileStore": [],
