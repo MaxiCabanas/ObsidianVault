@@ -1,8 +1,8 @@
 # Welcome to my Unreal Engine 5 Notes
 
-[Extending UE5 Editor](Editor%20Customization/Extending%20UE5%20Editor.md)
-[[ProjectSettings]]
+[[Extending UE5 Editor.md|Extending UE5 Editor]]
 [[EOS Setup]]
+[[ProjectSettings]]
 [[ConsoleOutput]]
 [[Content Browser API]]
 [[Custom Setting Pages]]
@@ -11,4 +11,4 @@
 [[Home]]
 [[Link to Assets in UE]]
 [[Perforce]]
-[[Extending UE5 Editor]]
+[[Extending UE5 Editor.md|Extending UE5 Editor]]

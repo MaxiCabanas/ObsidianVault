@@ -4,28 +4,8 @@
     "type": "split",
     "children": [
       {
-        "id": "19fcfdd313acf8ee",
-        "type": "tabs",
-        "dimension": 72.60024301336574,
-        "children": [
-          {
-            "id": "cec1e8e56d8914fe",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Editor Customization/Extending UE5 Editor.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ]
-      },
-      {
         "id": "30c99523d2c6676d",
         "type": "split",
-        "dimension": 27.399756986634266,
         "children": [
           {
             "id": "11c0f309a0a65714",
@@ -53,15 +33,25 @@
               {
                 "id": "5b401d33fc6b98e6",
                 "type": "leaf",
-                "pinned": true,
                 "state": {
                   "type": "markdown",
                   "state": {
                     "file": "README.md",
                     "mode": "source",
                     "source": false
-                  },
-                  "pinned": true
+                  }
+                }
+              },
+              {
+                "id": "5bfe2e88f3a50392",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Home.md",
+                    "mode": "source",
+                    "source": false
+                  }
                 }
               }
             ],
@@ -209,17 +199,18 @@
   "lastOpenFiles": [
     "Editor Customization/Extending UE5 Editor.md",
     "README.md",
-    "Home.md",
-    "ConsoleOutput.md",
-    "ProjectSettings.md",
     "Link to Assets in UE.md",
+    "Home.md",
+    "Content Browser API.md",
+    "Perforce.md",
+    "ConsoleOutput.md",
+    "Multiplayer/EOS Setup.md",
+    "ProjectSettings.md",
     "2024-09-21.md",
     "Custom Setting Pages.md",
     "Delegates.md",
     "Editor Notification.md",
-    "Content Browser API.md",
     "EOS Setup.md",
-    "Perforce.md",
     "CVar.md",
     "Editor Customization/Pasted image 20240914173049.png",
     "Editor Customization/Pasted image 20240914173419.png",
