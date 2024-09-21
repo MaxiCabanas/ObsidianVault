@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ProjectSettings.md",
+                "file": "Editor Customization/Extending UE5 Editor.md",
                 "mode": "source",
                 "source": false
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ProjectSettings.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ProjectSettings.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ProjectSettings.md"
+                "file": "README.md"
               }
             }
           },
@@ -205,8 +205,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "cec1e8e56d8914fe",
+  "active": "5b401d33fc6b98e6",
   "lastOpenFiles": [
+    "Editor Customization/Extending UE5 Editor.md",
     "README.md",
     "ProjectSettings.md",
     "ConsoleOutput.md",
@@ -219,7 +220,6 @@
     "Content Browser API.md",
     "EOS Setup.md",
     "Perforce.md",
-    "Editor Customization/Extending UE5 Editor.md",
     "CVar.md",
     "Editor Customization/Pasted image 20240914173049.png",
     "Editor Customization/Pasted image 20240914173419.png",

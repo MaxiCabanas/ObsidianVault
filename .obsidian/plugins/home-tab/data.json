@@ -24,12 +24,16 @@
   "unresolvedLinks": false,
   "recentFilesStore": [
     {
-      "filepath": "ProjectSettings.md",
-      "timestamp": 1726900308747
+      "filepath": "README.md",
+      "timestamp": 1726900564855
     },
     {
-      "filepath": "README.md",
-      "timestamp": 1726900307597
+      "filepath": "Editor Customization/Extending UE5 Editor.md",
+      "timestamp": 1726900563679
+    },
+    {
+      "filepath": "ProjectSettings.md",
+      "timestamp": 1726900444427
     },
     {
       "filepath": "ConsoleOutput.md",
@@ -38,10 +42,6 @@
     {
       "filepath": "Home.md",
       "timestamp": 1726900017532
-    },
-    {
-      "filepath": "Link to Assets in UE.md",
-      "timestamp": 1726900016769
     }
   ],
   "bookmarkedFileStore": [],
