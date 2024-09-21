@@ -24,24 +24,12 @@
   "unresolvedLinks": false,
   "recentFilesStore": [
     {
+      "filepath": "Home.md",
+      "timestamp": 1726899821340
+    },
+    {
       "filepath": "Custom Setting Pages.md",
-      "timestamp": 1726899439753
-    },
-    {
-      "filepath": "Delegates.md",
-      "timestamp": 1726899439295
-    },
-    {
-      "filepath": "Editor Notification.md",
-      "timestamp": 1726899438747
-    },
-    {
-      "filepath": "Content Browser API.md",
-      "timestamp": 1726899431789
-    },
-    {
-      "filepath": "ConsoleOutput.md",
-      "timestamp": 1726899374883
+      "timestamp": 1726899816204
     }
   ],
   "bookmarkedFileStore": [],

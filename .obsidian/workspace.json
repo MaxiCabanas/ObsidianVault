@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "4098fa453cc6f84c",
+        "id": "557fbe6ed1615a2d",
         "type": "tabs",
-        "dimension": 70.71688942891859,
+        "dimension": 74.60510328068044,
         "children": [
           {
-            "id": "3474479218ad58fb",
+            "id": "cec1e8e56d8914fe",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Custom Setting Pages.md",
+                "file": "Home.md",
                 "mode": "source",
                 "source": false
               }
@@ -23,9 +23,9 @@
         ]
       },
       {
-        "id": "557fbe6ed1615a2d",
+        "id": "11c0f309a0a65714",
         "type": "tabs",
-        "dimension": 29.283110571081412,
+        "dimension": 25.394896719319565,
         "children": [
           {
             "id": "510e87d69a5e2400",
@@ -103,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Custom Setting Pages.md",
+                "file": "Home.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Custom Setting Pages.md",
+                "file": "Home.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,16 +143,24 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Custom Setting Pages.md"
+                "file": "Home.md"
               }
             }
+          },
+          {
+            "id": "2c7b188b39336e38",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -166,12 +174,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3474479218ad58fb",
+  "active": "cec1e8e56d8914fe",
   "lastOpenFiles": [
+    "Custom Setting Pages.md",
     "Delegates.md",
     "Editor Notification.md",
     "Content Browser API.md",
-    "Custom Setting Pages.md",
     "ConsoleOutput.md",
     "EOS Setup.md",
     "Home.md",
