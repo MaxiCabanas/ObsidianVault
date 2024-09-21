@@ -35,7 +35,7 @@ Overriding GetCategoryName() and GetSectionName() we control how the settings wi
 
 # Open CustomSettings in editor from C++
 
-Usually when working with customs subclasses of [[Custom Setting Pages#UDeveloperSettings|UDeveloperSettings]] we want to enforce setting up some variables or references.
+Usually when working with customs subclasses of [UDeveloperSettings](Custom%20Setting%20Pages.md#UDeveloperSettings) we want to enforce setting up some variables or references.
 
 A way to do this is using the [[ConsoleOutput]] or a custom [[Editor Notification]]. Both solutions, as many others, support the inclution of Hyperlinks that the user can click to navigate directly to any point in the editor, we can use this feature to expose a link to our custom [[Custom Setting Pages#UDeveloperSettings|UDeveloperSettings]]
 
