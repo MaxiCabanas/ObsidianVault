@@ -8,6 +8,7 @@ We pick a random coordinate inside a square using the cartesian system
 
 ![[Excalidraw/RandomPointsInsideACircleSketches.md#^group=S6ZVS2ehw9YniOhjcPfzP|RejectionSamplingSketch]]
 
+![Sketch](Excalidraw/RandomPointsInsideACircleSketches.md#^group=S6ZVS2ehw9YniOhjcPfzP|RejectionSamplingSketch)
 
 
 
