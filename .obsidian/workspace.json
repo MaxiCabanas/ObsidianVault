@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Math/Random Points Inside a circle.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Math/Random Points Inside a circle.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Math/Random Points Inside a circle.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Math/Random Points Inside a circle.md"
+                "file": "README.md"
               }
             }
           },
@@ -158,11 +158,14 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "b8a34d635b1f03e6",
+  "active": "0c73c596a0e98011",
   "lastOpenFiles": [
+    "Perforce.md",
+    "Math.md",
+    "README.md",
+    "Math/Random Points Inside a circle.md",
     "Media/Pasted image 20240925150922.png",
     "Excalidraw/RandomPointsInsideACircleSketches.md",
-    "Math/Random Points Inside a circle.md",
     "Media/Pasted image 20240925150809.png",
     "Media/Pasted image 20240925150759.png",
     "Media/Pasted image 20240925150713.png",
@@ -188,12 +191,9 @@
     "Media/Untitled.canvas",
     "Media/Pasted image 20240914173049.png",
     "Media/Pasted image 20240923000845.png",
-    "Pasted image 20240922234859.png",
-    "README.md",
     "Link to Assets in UE.md",
     "ConsoleVariable.md",
     "ProjectSettings.md",
-    "Perforce.md",
     "2024-09-21.md",
     "Editor Notification.md",
     "EOS Setup.md",

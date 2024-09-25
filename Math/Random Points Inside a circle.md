@@ -77,6 +77,9 @@ This means that for every 100 valid dots we obtain we must sample an average of 
 
 in [this p5 example](https://editor.p5js.org/MaxiCabanas/sketches/aLU1HUoDa) we can see that this is true
 
+# Using Polar coordinate system
+
+
 https://stackoverflow.com/questions/5837572/generate-a-random-point-within-a-circle-uniformly
 https://en.wikipedia.org/wiki/Cumulative_distribution_function
 https://en.wikipedia.org/wiki/Polar_coordinate_system
