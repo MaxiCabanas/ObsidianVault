@@ -1,0 +1,11 @@
+{
+  "obsidian-excalidraw-plugin:run-ocr-selectedelements": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "C"
+    }
+  ]
+}

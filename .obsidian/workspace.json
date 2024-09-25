@@ -4,46 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "0b858d0f11a45fd3",
-        "type": "split",
+        "id": "3ce5894e30cf597c",
+        "type": "tabs",
         "children": [
           {
-            "id": "b0d634af8aedf8c9",
-            "type": "tabs",
-            "dimension": 69.07654921020657,
-            "children": [
-              {
-                "id": "5b401d33fc6b98e6",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Custom Setting Pages.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
+            "id": "e3593e046244e492",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Math/Random Points Inside a circle.md",
+                "mode": "source",
+                "source": false
               }
-            ]
-          },
-          {
-            "id": "11c0f309a0a65714",
-            "type": "tabs",
-            "dimension": 30.92345078979344,
-            "children": [
-              {
-                "id": "510e87d69a5e2400",
-                "type": "leaf",
-                "state": {
-                  "type": "graph",
-                  "state": {}
-                }
-              }
-            ],
-            "stacked": true
+            }
           }
         ],
-        "direction": "vertical"
+        "stacked": true
       }
     ],
     "direction": "vertical"
@@ -93,7 +70,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 229.5
+    "width": 213.5
   },
   "right": {
     "id": "ec14bb73dfdf6bdc",
@@ -109,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Custom Setting Pages.md",
+                "file": "Math/Random Points Inside a circle.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Custom Setting Pages.md",
+                "file": "Math/Random Points Inside a circle.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Custom Setting Pages.md"
+                "file": "Math/Random Points Inside a circle.md"
               }
             }
           },
@@ -177,33 +154,48 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "homepage:Open homepage": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "2c7b188b39336e38",
+  "active": "e3593e046244e492",
   "lastOpenFiles": [
-    "ConsoleVariable.md",
-    "Custom Setting Pages.md",
-    "ProjectSettings.md",
-    "README.md",
-    "Editor Customization/Extending UE5 Editor.md",
-    "Link to Assets in UE.md",
+    "Excalidraw/RandomPointsInsideACircleSketches.md",
+    "Math/Random Points Inside a circle.md",
+    "Excalidraw",
     "Home.md",
+    "Math",
     "Content Browser API.md",
-    "Perforce.md",
-    "ConsoleOutput.md",
-    "Multiplayer/EOS Setup.md",
-    "2024-09-21.md",
+    "Custom Setting Pages.md",
     "Delegates.md",
+    "ConsoleOutput.md",
+    "Multiplayer/Replication.md",
+    "Multiplayer/EOS Setup.md",
+    "Media/Pasted image 20240923154307.png",
+    "Console/Config Variables.md",
+    "Editor Customization/Extending UE5 Editor.md",
+    "editor console.md",
+    "Console",
+    "Untitled/Untitled.canvas",
+    "Untitled/Untitled.md",
+    "Media/Untitled.canvas",
+    "Media/Pasted image 20240914173049.png",
+    "Media/Pasted image 20240923000845.png",
+    "Pasted image 20240922234859.png",
+    "README.md",
+    "Link to Assets in UE.md",
+    "ConsoleVariable.md",
+    "ProjectSettings.md",
+    "Perforce.md",
+    "2024-09-21.md",
     "Editor Notification.md",
     "EOS Setup.md",
     "CVar.md",
-    "Editor Customization/Pasted image 20240914173049.png",
-    "Editor Customization/Pasted image 20240914173419.png",
+    "Media/Pasted image 20240914173419.png",
     "Editor Customization",
-    "Editor Customization/Pasted image 20240914173229.png",
-    "Editor Customization/Pasted image 20240914173223.png",
-    "Editor Customization/Pasted image 20240914173144.png",
+    "Media/Pasted image 20240914173229.png",
+    "Media/Pasted image 20240914173223.png",
+    "Media/Pasted image 20240914173144.png",
     "Custom Editor Settings.md",
     "toc.md",
     "Select.md",

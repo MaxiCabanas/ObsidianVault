@@ -4,9 +4,9 @@
 
 Creating a custom DeveloperSettings is a great way to expose the settings for a feature of our game to a place where can be tweak convenient and that makes sense. 
 Because settings are saved in a .ini file, can be tweaked for a built game, which makes this approach extremely flexible.
-On top of those benefits, those settings can be used to set a [[ConsoleVariable]] value which makes the settings be tweakable from [[editor console]] in runtime.
+On top of those benefits, those settings can be used to set a [Config Variables](Console/Config%20Variables.md) value which makes the settings be tweakable from [Config Variables](Console/Config%20Variables.md) in runtime.
 
-To create a custom DeveloperSettings section in [[ProjectSettings]] we need to create a new class that inherits from UDeveloperSettings (or UDeveloperSettingsBackedByCVars if we want to support ConsoleVariables)
+To create a custom DeveloperSettings section in [[ProjectSettings]] we need to create a new class that inherits from UDeveloperSettings (or UDeveloperSettingsBackedByCVars if we want to support [Config Variables](Console/Config%20Variables.md))
 
 ```c++
 UCLASS(Config=PlayerSettings, DefaultConfig)  
