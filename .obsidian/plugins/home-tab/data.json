@@ -22,16 +22,7 @@
   "showShortcuts": true,
   "markdownOnly": false,
   "unresolvedLinks": false,
-  "recentFilesStore": [
-    {
-      "filepath": "Math/Random Points Inside a circle.md",
-      "timestamp": 1727273184110
-    },
-    {
-      "filepath": "Excalidraw/RandomPointsInsideACircleSketches.md",
-      "timestamp": 1727273176035
-    }
-  ],
+  "recentFilesStore": [],
   "bookmarkedFileStore": [],
   "searchDelay": 0,
   "replaceNewTabs": true,

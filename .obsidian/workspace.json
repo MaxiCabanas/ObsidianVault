@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "3ce5894e30cf597c",
+        "id": "d1b761dc51550870",
         "type": "tabs",
         "children": [
           {
-            "id": "e3593e046244e492",
+            "id": "b8a34d635b1f03e6",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -131,7 +131,7 @@
             }
           },
           {
-            "id": "2c7b188b39336e38",
+            "id": "0c73c596a0e98011",
             "type": "leaf",
             "state": {
               "type": "git-view",
@@ -143,7 +143,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 376.5
+    "width": 593.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -158,12 +158,19 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "e3593e046244e492",
+  "active": "b8a34d635b1f03e6",
   "lastOpenFiles": [
+    "Media/Pasted image 20240925150922.png",
     "Excalidraw/RandomPointsInsideACircleSketches.md",
     "Math/Random Points Inside a circle.md",
-    "Excalidraw",
+    "Media/Pasted image 20240925150809.png",
+    "Media/Pasted image 20240925150759.png",
+    "Media/Pasted image 20240925150713.png",
+    "Media/Pasted image 20240925150518.png",
+    "Media/Pasted image 20240925150002.png",
+    "Media/Pasted image 20240925145716.png",
     "Home.md",
+    "Excalidraw",
     "Math",
     "Content Browser API.md",
     "Custom Setting Pages.md",
@@ -191,14 +198,9 @@
     "Editor Notification.md",
     "EOS Setup.md",
     "CVar.md",
-    "Media/Pasted image 20240914173419.png",
     "Editor Customization",
-    "Media/Pasted image 20240914173229.png",
-    "Media/Pasted image 20240914173223.png",
-    "Media/Pasted image 20240914173144.png",
     "Custom Editor Settings.md",
     "toc.md",
-    "Select.md",
-    "create a link.md"
+    "Select.md"
   ]
 }
