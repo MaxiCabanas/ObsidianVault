@@ -7,7 +7,7 @@ Sometimes we need to implement interaction between classes from different layers
 
 #include "Delegates/DelegateCombinations.h"
 
-class AMyDefaultPawn;
+class AMyDefaultPawn; // It's important to put forward declaration here and not inside the delegate MACRO
 
 namespace UIDelegates {
 
@@ -15,4 +15,12 @@ namespace UIDelegates {
 
 	extern FToggleMenuEvent OnToggleMenu;
 };
+```
+
+CPP
+
+```c++
+#include "UIDelegates.h"
+
+UIDelegates::FToggleMenuEvent UIDelegates::OnToggleMenu;
 ```

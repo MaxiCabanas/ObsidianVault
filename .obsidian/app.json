@@ -2,5 +2,7 @@
   "readableLineLength": true,
   "newLinkFormat": "absolute",
   "useMarkdownLinks": true,
-  "attachmentFolderPath": "Media"
+  "attachmentFolderPath": "Media",
+  "showRibbon": true,
+  "newFileLocation": "current"
 }

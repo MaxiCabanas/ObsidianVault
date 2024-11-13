@@ -1,0 +1,7 @@
+- [ ] Ask user if want to select an existing MarkdownAsset or create a new one, instead of just create it.
+- [ ] Replicate the behavior of Asset documentation for the Project Documentation button too.
+- [ ] Add bool settings in EditorSettings to deactivate those buttons if the user wants.
+- [ ] Create a enum for behavior on new asset creation.
+	- [ ] Open
+	- [ ] Select in Content Browser
+	- [ ] Nothing

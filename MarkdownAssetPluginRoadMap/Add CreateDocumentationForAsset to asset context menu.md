@@ -1,0 +1,1 @@
+Currently its possible to create a Markdown file for an asset from the editor window of the asset. This must be possible also from context menu so the asset doesn't need to be open. ^4aae85

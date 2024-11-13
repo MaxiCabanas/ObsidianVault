@@ -9,6 +9,7 @@ We pick a random coordinate inside a square using the cartesian system, then we 
 ![](Media/Pasted%20image%2020240925150922.png)
 
 
+
 ```c++
 const float SquareSize = 100;
 const float R = 50;

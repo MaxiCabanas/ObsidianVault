@@ -4,23 +4,96 @@
     "type": "split",
     "children": [
       {
-        "id": "d1b761dc51550870",
+        "id": "8f31a709730d547b",
         "type": "tabs",
+        "dimension": 72.65469061876247,
         "children": [
           {
-            "id": "b8a34d635b1f03e6",
+            "id": "5d89342a52d87e0c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Azure/Revenant Technical Notes.md",
                 "mode": "source",
+                "backlinks": false,
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Revenant Technical Notes"
             }
           }
         ],
         "stacked": true
+      },
+      {
+        "id": "0d8c8f480691ff1d",
+        "type": "split",
+        "dimension": 27.345309381237527,
+        "children": [
+          {
+            "id": "3507636648ad4b2f",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "d4ccc75792012516",
+                "type": "leaf",
+                "state": {
+                  "type": "graph",
+                  "state": {},
+                  "icon": "lucide-git-fork",
+                  "title": "Graph view"
+                }
+              }
+            ],
+            "stacked": true
+          },
+          {
+            "id": "f5843f254dc7231a",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "1232a31276999f67",
+                "type": "leaf",
+                "state": {
+                  "type": "localgraph",
+                  "state": {
+                    "file": "Azure/Revenant Technical Notes.md",
+                    "options": {
+                      "collapse-filter": true,
+                      "search": "",
+                      "localJumps": 1,
+                      "localBacklinks": true,
+                      "localForelinks": true,
+                      "localInterlinks": false,
+                      "showTags": false,
+                      "showAttachments": false,
+                      "hideUnresolved": false,
+                      "collapse-color-groups": true,
+                      "colorGroups": [],
+                      "collapse-display": true,
+                      "showArrow": false,
+                      "textFadeMultiplier": 0,
+                      "nodeSizeMultiplier": 1,
+                      "lineSizeMultiplier": 1,
+                      "collapse-forces": true,
+                      "centerStrength": 0.518713248970312,
+                      "repelStrength": 10,
+                      "linkStrength": 1,
+                      "linkDistance": 250,
+                      "scale": 0.7132754626224423,
+                      "close": true
+                    }
+                  },
+                  "icon": "lucide-git-fork",
+                  "title": "Graph of Revenant Technical Notes"
+                }
+              }
+            ],
+            "stacked": true
+          }
+        ],
+        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
@@ -40,7 +113,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -55,7 +130,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -63,14 +140,16 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 213.5
+    "width": 330.5
   },
   "right": {
     "id": "ec14bb73dfdf6bdc",
@@ -86,7 +165,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Native C++ Stuff/C++ Predefined Macros.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +173,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for C++ Predefined Macros"
             }
           },
           {
@@ -103,10 +184,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Native C++ Stuff/C++ Predefined Macros.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from C++ Predefined Macros"
             }
           },
           {
@@ -117,7 +200,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -126,8 +211,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
-              }
+                "file": "Native C++ Stuff/C++ Predefined Macros.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of C++ Predefined Macros"
             }
           },
           {
@@ -135,7 +222,9 @@
             "type": "leaf",
             "state": {
               "type": "git-view",
-              "state": {}
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
             }
           }
         ],
@@ -143,7 +232,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 593.5
+    "width": 372.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -158,49 +247,57 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "0c73c596a0e98011",
+  "active": "3e339672ddb81679",
   "lastOpenFiles": [
+    "Engine Generals/FPS Calculations.md",
+    "Azure/Revenant Technical Notes.md",
+    "Engine Generals",
+    "Azure/Reventant Behavior Original Documentation.md",
     "Perforce.md",
-    "Math.md",
+    "Azure",
+    "Native C++ Stuff/C++ Predefined Macros.md",
+    "Native C++ Stuff",
+    "ConsoleOutput.md",
+    "GameplayAbilitySystem (GAS)/Drawing 2024-10-08 02.29.25.excalidraw.md",
+    "Media/Pasted Image 20241008190430_835.png",
+    "Media/Pasted Image 20241008181638_477.png",
+    "GameplayAbilitySystem (GAS)/GameplayEffectComponent.md",
+    "GameplayAbilitySystem (GAS)/GAS notes.md",
+    "UWorld.md",
+    "UE Build.md",
     "README.md",
-    "Math/Random Points Inside a circle.md",
-    "Media/Pasted image 20240925150922.png",
-    "Excalidraw/RandomPointsInsideACircleSketches.md",
-    "Media/Pasted image 20240925150809.png",
-    "Media/Pasted image 20240925150759.png",
-    "Media/Pasted image 20240925150713.png",
-    "Media/Pasted image 20240925150518.png",
-    "Media/Pasted image 20240925150002.png",
-    "Media/Pasted image 20240925145716.png",
+    "Mover.md",
+    "Editor Customization/Custom Setting Pages.md",
+    "Editor Customization/ProjectSettings.md",
+    "Delegates.md",
+    "Editor Customization/Content Browser API.md",
+    "Editor Customization/Editor Notifications.md",
+    "Editor Customization/Extending UE5 Editor.md",
+    "Link to Assets in UE.md",
     "Home.md",
+    "Multi threading.md",
+    "Multiplayer/Replication.md",
+    "Media/Pasted image 20241003195352.png",
+    "Multiplayer/Drawing 2024-10-03 19.01.01.excalidraw.md",
+    "Media/Pasted Image 20241003191043_138.png",
+    "Multiplayer/EOS Setup.md",
+    "FANT/Graphic.md",
+    "Media/Pasted image 20241003015533.png",
+    "Media/Pasted image 20241003015513.png",
+    "Media/Pasted Image 20241002162940_489.png",
+    "Media/Pasted Image 20241002162931_146.png",
+    "GameplayAbilitySystem (GAS)",
+    "MarkdownAssetPluginRoadMap/Untitled.canvas",
+    "MarkdownAssetPluginDevelopment/Untitled.canvas",
+    "MarkdownAssetPluginRoadMap",
+    "FANT",
+    "Media/Pasted image 20240925150922.png",
+    "Media/Pasted image 20240925150809.png",
     "Excalidraw",
     "Math",
-    "Content Browser API.md",
-    "Custom Setting Pages.md",
-    "Delegates.md",
-    "ConsoleOutput.md",
-    "Multiplayer/Replication.md",
-    "Multiplayer/EOS Setup.md",
-    "Media/Pasted image 20240923154307.png",
-    "Console/Config Variables.md",
-    "Editor Customization/Extending UE5 Editor.md",
-    "editor console.md",
     "Console",
     "Untitled/Untitled.canvas",
-    "Untitled/Untitled.md",
     "Media/Untitled.canvas",
-    "Media/Pasted image 20240914173049.png",
-    "Media/Pasted image 20240923000845.png",
-    "Link to Assets in UE.md",
-    "ConsoleVariable.md",
-    "ProjectSettings.md",
-    "2024-09-21.md",
-    "Editor Notification.md",
-    "EOS Setup.md",
-    "CVar.md",
-    "Editor Customization",
-    "Custom Editor Settings.md",
-    "toc.md",
-    "Select.md"
+    "Editor Customization"
   ]
 }
