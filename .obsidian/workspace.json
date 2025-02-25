@@ -59,13 +59,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Study/Smart Pointers.md",
+                "file": "Study/Pointers/Memory Leaks and Dangling Pointer.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Smart Pointers"
+              "title": "Memory Leaks and Dangling Pointer"
             }
           }
         ],
@@ -271,10 +271,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "9f130aae7822a893",
+  "active": "3e339672ddb81679",
   "lastOpenFiles": [
     "Study/Server-Side Rewind (SSR).md",
-    "Study/Smart Pointers.md",
+    "Study/Pointers/Smart Pointers.md",
+    "Study/Pointers/Memory Leaks and Dangling Pointer.md",
+    "Study/Pointers",
     "Editor Customization/Custom Setting Pages.md",
     "Study/Desing Patterns/Visitor Pattern.md",
     "Study/Math notes/Dot product.md",
@@ -309,7 +311,6 @@
     "GameplayAbilitySystem (GAS)/Drawing 2024-10-08 02.29.25.excalidraw.md",
     "Media/Pasted Image 20241008190430_835.png",
     "Media/Pasted Image 20241008181638_477.png",
-    "GameplayAbilitySystem (GAS)/GameplayEffectComponent.md",
     "Media/Pasted image 20241003195352.png",
     "Media/Pasted Image 20241003191043_138.png",
     "Media/Pasted image 20241003015533.png",
@@ -320,7 +321,6 @@
     "MarkdownAssetPluginRoadMap/Untitled.canvas",
     "MarkdownAssetPluginDevelopment/Untitled.canvas",
     "MarkdownAssetPluginRoadMap",
-    "FANT",
     "Untitled/Untitled.canvas",
     "Media/Untitled.canvas"
   ]

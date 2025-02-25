@@ -19,6 +19,7 @@ In the example above, *"MyUniquePtr"* will only be usable inside the inner scope
 
 As the pointer cannot be copied, line 5 throws an error at compile time, since the Copy operator doesn't exists.
 
+---
 # Shared Pointer
 
 Shared Pointers stores a blocks of memory that keeps tracks of the amount of strong references to the object inside. 
@@ -42,8 +43,9 @@ void MyClass::MyFunction()
 >
 >That is when two or more objects possess a reference to each other, keeping all instances alive for ever causing a memory leak.
 >
->[Weak Pointers](Study/Smart%20Pointers.md#Weak%20Pointer) offer a solution to this and other scenarios.
+>[Weak Pointers](Study/Pointers/Smart%20Pointers.md#Weak%20Pointer) offer a solution to this and other scenarios.
 
+---
 # Weak Pointer
 
 Weak Pointer works very similar to Shared Pointers but with the difference that it doesn't owns the object inside of it, so it doesn't increase the reference counter.

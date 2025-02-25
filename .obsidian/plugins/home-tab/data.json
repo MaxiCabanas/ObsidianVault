@@ -24,20 +24,8 @@
   "unresolvedLinks": false,
   "recentFilesStore": [
     {
-      "filepath": "Study/Smart Pointers.md",
-      "timestamp": 1740444082028
-    },
-    {
-      "filepath": "Study/Server-Side Rewind (SSR).md",
-      "timestamp": 1740444081530
-    },
-    {
-      "filepath": "Editor Customization/Custom Setting Pages.md",
-      "timestamp": 1740441206230
-    },
-    {
-      "filepath": "Study/Desing Patterns/Visitor Pattern.md",
-      "timestamp": 1740440940667
+      "filepath": "Study/Pointers/Memory Leaks and Dangling Pointer.md",
+      "timestamp": 1740486274107
     }
   ],
   "bookmarkedFileStore": [],

@@ -5,8 +5,8 @@
         "codeblock": {
           "lineNumbers": true,
           "unwrapLines": true,
-          "wrapLinesActive": false,
-          "curvature": 4
+          "wrapLinesActive": true,
+          "curvature": 5
         },
         "gutter": {
           "highlight": true,
@@ -53,9 +53,9 @@
         "advanced": {
           "gradientHighlights": false,
           "gradientHighlightsColourStop": "70%",
-          "languageBorderColour": false,
+          "languageBorderColour": true,
           "languageBorderWidth": 5,
-          "iconSize": 28
+          "iconSize": 24
         }
       },
       "colours": {
@@ -86,10 +86,12 @@
             "lineColour": "--color-base-30"
           },
           "highlights": {
-            "activeCodeblockLineColour": "--color-base-30",
+            "activeCodeblockLineColour": "#8F8F8F",
             "activeEditorLineColour": "--color-base-20",
             "defaultColour": "--text-highlight-bg",
-            "alternativeHighlights": {}
+            "alternativeHighlights": {
+              "error": "#FF000040"
+            }
           },
           "inline": {
             "backgroundColour": "--code-background",
@@ -129,10 +131,12 @@
             "lineColour": "--color-base-30"
           },
           "highlights": {
-            "activeCodeblockLineColour": "--color-base-30",
+            "activeCodeblockLineColour": "#8F8F8F",
             "activeEditorLineColour": "--color-base-20",
             "defaultColour": "--text-highlight-bg",
-            "alternativeHighlights": {}
+            "alternativeHighlights": {
+              "error": "#FF000040"
+            }
           },
           "inline": {
             "backgroundColour": "--code-background",
@@ -449,8 +453,8 @@
   },
   "newTheme": "",
   "newHighlight": "",
-  "exampleCodeblockParameters": "python title:foo",
-  "exampleCodeblockContent": "print(\"This line is very long and should be used as an example for how the plugin deals with wrapping and unwrapping very long lines given the choice of codeblock parameters and settings.\")\nprint(\"This line is highlighted.\")",
+  "exampleCodeblockParameters": "cpp title:\"C++ Example\"",
+  "exampleCodeblockContent": "print(\"This line is very long and should be used as an example for how the plugin deals with wrapping and unwrapping very long lines given the choice of codeblock parameters and settings.\")\nprint(\"This line is highlighted.\")\nint* Ptr = new int(22);\ndelete Ptr; //Dangling pointer!!",
   "exampleInlineCode": "{python icon title:foo} print(\"This is inline code\")",
   "decoratePrint": true,
   "excludedLanguages": "ad-*, reference",
