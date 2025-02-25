@@ -10,5 +10,7 @@
   "obsidian-charts",
   "obsidian-plugin-toc",
   "fast-text-color",
-  "floating-toc"
+  "floating-toc",
+  "obsidian-style-settings",
+  "code-styler"
 ]

@@ -4,96 +4,119 @@
     "type": "split",
     "children": [
       {
-        "id": "8f31a709730d547b",
+        "id": "db3ee60662f885ad",
         "type": "tabs",
-        "dimension": 72.65469061876247,
+        "dimension": 72.53886010362694,
         "children": [
           {
-            "id": "5d89342a52d87e0c",
+            "id": "753ef712265d078a",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ConsoleOutput.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "ConsoleOutput"
+            },
+            "group": "692f28b85e300629"
+          },
+          {
+            "id": "f6e4764710da29c9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Azure/Revenant Technical Notes.md",
+                "file": "Batch Files.md",
                 "mode": "source",
-                "backlinks": false,
-                "source": false
+                "source": false,
+                "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Revenant Technical Notes"
+              "title": "Batch Files"
+            }
+          },
+          {
+            "id": "a12b893b22f7af4a",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/RandomPointsInsideACircleSketches.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "RandomPointsInsideACircleSketches"
+            }
+          },
+          {
+            "id": "9f130aae7822a893",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Study/Smart Pointers.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Smart Pointers"
             }
           }
         ],
-        "stacked": true
+        "currentTab": 3
       },
       {
-        "id": "0d8c8f480691ff1d",
-        "type": "split",
-        "dimension": 27.345309381237527,
+        "id": "05b7c8cfee6f1915",
+        "type": "tabs",
+        "dimension": 27.461139896373055,
         "children": [
           {
-            "id": "3507636648ad4b2f",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "d4ccc75792012516",
-                "type": "leaf",
-                "state": {
-                  "type": "graph",
-                  "state": {},
-                  "icon": "lucide-git-fork",
-                  "title": "Graph view"
+            "id": "65cb4e4cf4e843af",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "ConsoleOutput.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 1,
+                  "close": true
                 }
-              }
-            ],
-            "stacked": true
-          },
-          {
-            "id": "f5843f254dc7231a",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "1232a31276999f67",
-                "type": "leaf",
-                "state": {
-                  "type": "localgraph",
-                  "state": {
-                    "file": "Azure/Revenant Technical Notes.md",
-                    "options": {
-                      "collapse-filter": true,
-                      "search": "",
-                      "localJumps": 1,
-                      "localBacklinks": true,
-                      "localForelinks": true,
-                      "localInterlinks": false,
-                      "showTags": false,
-                      "showAttachments": false,
-                      "hideUnresolved": false,
-                      "collapse-color-groups": true,
-                      "colorGroups": [],
-                      "collapse-display": true,
-                      "showArrow": false,
-                      "textFadeMultiplier": 0,
-                      "nodeSizeMultiplier": 1,
-                      "lineSizeMultiplier": 1,
-                      "collapse-forces": true,
-                      "centerStrength": 0.518713248970312,
-                      "repelStrength": 10,
-                      "linkStrength": 1,
-                      "linkDistance": 250,
-                      "scale": 0.7132754626224423,
-                      "close": true
-                    }
-                  },
-                  "icon": "lucide-git-fork",
-                  "title": "Graph of Revenant Technical Notes"
-                }
-              }
-            ],
-            "stacked": true
+              },
+              "pinned": true,
+              "icon": "lucide-git-fork",
+              "title": "Graph of ConsoleOutput"
+            },
+            "group": "692f28b85e300629"
           }
-        ],
-        "direction": "horizontal"
+        ]
       }
     ],
     "direction": "vertical"
@@ -112,7 +135,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -236,52 +260,58 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "homepage:Open homepage": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "homepage:Open homepage": false,
       "obsidian-git:Open Git source control": false,
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "3e339672ddb81679",
+  "active": "9f130aae7822a893",
   "lastOpenFiles": [
+    "Study/Server-Side Rewind (SSR).md",
+    "Study/Smart Pointers.md",
+    "Editor Customization/Custom Setting Pages.md",
+    "Study/Desing Patterns/Visitor Pattern.md",
+    "Study/Math notes/Dot product.md",
+    "Excalidraw/MathNotesSketches.md",
+    "Media/Pasted image 20250223163439.png",
+    "Excalidraw/RandomPointsInsideACircleSketches.md",
+    "Media/Pasted image 20250223161213.png",
+    "Math/Random Points Inside a circle.md",
+    "Study/Math notes",
+    "Study/Desing Patterns",
+    "Multi threading.md",
+    "Study",
+    "Batch Files.md",
+    "Native C++ Stuff/C++ Predefined Macros.md",
+    "UWorld.md",
+    "Perforce.md",
+    "Mover.md",
+    "Link to Assets in UE.md",
+    "Delegates.md",
+    "ConsoleOutput.md",
     "Engine Generals/FPS Calculations.md",
+    "Console/Config Variables.md",
+    "Editor Customization/Content Browser API.md",
+    "MySite/Usefull Resources.md",
+    "README.md",
+    "MySite",
     "Azure/Revenant Technical Notes.md",
     "Engine Generals",
     "Azure/Reventant Behavior Original Documentation.md",
-    "Perforce.md",
     "Azure",
-    "Native C++ Stuff/C++ Predefined Macros.md",
     "Native C++ Stuff",
-    "ConsoleOutput.md",
     "GameplayAbilitySystem (GAS)/Drawing 2024-10-08 02.29.25.excalidraw.md",
     "Media/Pasted Image 20241008190430_835.png",
     "Media/Pasted Image 20241008181638_477.png",
     "GameplayAbilitySystem (GAS)/GameplayEffectComponent.md",
-    "GameplayAbilitySystem (GAS)/GAS notes.md",
-    "UWorld.md",
-    "UE Build.md",
-    "README.md",
-    "Mover.md",
-    "Editor Customization/Custom Setting Pages.md",
-    "Editor Customization/ProjectSettings.md",
-    "Delegates.md",
-    "Editor Customization/Content Browser API.md",
-    "Editor Customization/Editor Notifications.md",
-    "Editor Customization/Extending UE5 Editor.md",
-    "Link to Assets in UE.md",
-    "Home.md",
-    "Multi threading.md",
-    "Multiplayer/Replication.md",
     "Media/Pasted image 20241003195352.png",
-    "Multiplayer/Drawing 2024-10-03 19.01.01.excalidraw.md",
     "Media/Pasted Image 20241003191043_138.png",
-    "Multiplayer/EOS Setup.md",
-    "FANT/Graphic.md",
     "Media/Pasted image 20241003015533.png",
     "Media/Pasted image 20241003015513.png",
     "Media/Pasted Image 20241002162940_489.png",
@@ -291,13 +321,7 @@
     "MarkdownAssetPluginDevelopment/Untitled.canvas",
     "MarkdownAssetPluginRoadMap",
     "FANT",
-    "Media/Pasted image 20240925150922.png",
-    "Media/Pasted image 20240925150809.png",
-    "Excalidraw",
-    "Math",
-    "Console",
     "Untitled/Untitled.canvas",
-    "Media/Untitled.canvas",
-    "Editor Customization"
+    "Media/Untitled.canvas"
   ]
 }

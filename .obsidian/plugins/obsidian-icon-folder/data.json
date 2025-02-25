@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
-      "SiUnrealengine",
-      "SiCplusplus",
-      "SiGhostery",
-      "SiMarkdown",
-      "LiImage"
+      "SiLibreofficemath",
+      "SiMaterialdesignicons",
+      "LiNotebookPen",
+      "SiHomeassistantcommunitystore",
+      "SiUnrealengine"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -44,5 +44,9 @@
   "MarkdownAssetPluginRoadMap": "SiMarkdown",
   "FANT": "SiGhostery",
   "Native C++ Stuff": "SiCplusplus",
-  "Engine Generals": "SiUnrealengine"
+  "Engine Generals": "SiUnrealengine",
+  "MySite": "SiHomeassistantcommunitystore",
+  "Study": "LiNotebookPen",
+  "Study/Desing Patterns": "SiMaterialdesignicons",
+  "Study/Math notes": "SiLibreofficemath"
 }
